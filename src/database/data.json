@@ -1,0 +1,43 @@
+{
+  "profile": {
+    "gambar": "./src/img/profile.png",
+    "author": "Hamzah",
+    "Team": "xou"
+  },
+  "musik": "./src/musik/music.mp3",
+  "btnList": [
+    {
+      "sosmed": "Whatsapp",
+      "link": "https://wa.me/6285336889508"
+    },
+    {
+      "sosmed": "my website",
+      "link": "https://hamzahxou.github.io/"
+    }
+  ],
+  "btnIcon": [
+    {
+      "sosmed": "github",
+      "link": "https://github.com/hamzahxou",
+      "icon": "bxl-github"
+    },
+    {
+      "sosmed": "tiktok",
+      "link": "https://www.tiktok.com/@hamzahxou",
+      "icon": "bxl-tiktok"
+    },
+    {
+      "sosmed": "discord",
+      "link": "https://discord.com/channels/@hamzahxou",
+      "icon": "bxl-discord-alt"
+    },
+    {
+      "sosmed": "Chat Room",
+      "link": "https://chats-room.glitch.me/",
+      "icon": "bxs-message-square-dots"
+    }
+  ],
+  "copyright": {
+    "text": "mau sc ini chat admin biar di kasih info update"
+  }
+}
