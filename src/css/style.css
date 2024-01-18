@@ -329,7 +329,7 @@ body {
 }
 
 .aksi.active {
-  opacity: 1;
+  opacity: 0;
 }
 
 .bawah {
